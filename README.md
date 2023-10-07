@@ -11,6 +11,6 @@
 - [Covid Data Analysis](link-to-covid-repo): SQL-based analysis of Covid data.
 
 ### Data Collection
-- [Paris Tournage](link-to-paris-tournage-repo): Collecting data related to filming in Paris.
+- [Paris Tournage](https://github.com/OusamSS/SQL/blob/main/filming_in_paris.sql): Collecting data related to filming in Paris.
 
 Feel free to explore any project that interests you by clicking on the links above!
